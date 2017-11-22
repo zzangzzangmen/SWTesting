@@ -124,7 +124,7 @@ public class TriangleTest_BVA {
 
     @Test
     public void getPerimeter_TC18() throws Exception {
-        assertEquals("Should return '-1'", -1, TC18.getPerimeter());
+        assertEquals("Should return '801'", 801, TC18.getPerimeter());
     }
 
 
